@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tienda-fotos-react-javascript/static/css/main.47582ca2.chunk.css",
+    "main.js": "/tienda-fotos-react-javascript/static/js/main.6cec6ef0.chunk.js",
+    "main.js.map": "/tienda-fotos-react-javascript/static/js/main.6cec6ef0.chunk.js.map",
+    "runtime-main.js": "/tienda-fotos-react-javascript/static/js/runtime-main.2a3f5593.js",
+    "runtime-main.js.map": "/tienda-fotos-react-javascript/static/js/runtime-main.2a3f5593.js.map",
+    "static/js/2.427aefc2.chunk.js": "/tienda-fotos-react-javascript/static/js/2.427aefc2.chunk.js",
+    "static/js/2.427aefc2.chunk.js.map": "/tienda-fotos-react-javascript/static/js/2.427aefc2.chunk.js.map",
+    "index.html": "/tienda-fotos-react-javascript/index.html",
+    "static/css/main.47582ca2.chunk.css.map": "/tienda-fotos-react-javascript/static/css/main.47582ca2.chunk.css.map",
+    "static/js/2.427aefc2.chunk.js.LICENSE.txt": "/tienda-fotos-react-javascript/static/js/2.427aefc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a3f5593.js",
+    "static/js/2.427aefc2.chunk.js",
+    "static/css/main.47582ca2.chunk.css",
+    "static/js/main.6cec6ef0.chunk.js"
+  ]
+}
