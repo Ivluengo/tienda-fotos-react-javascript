@@ -1,0 +1,41 @@
+.mainHeader {
+    background: lightseagreen;
+    
+    .container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 0rem;
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    h1 a {
+        text-decoration: none;
+        color: white;
+    }
+}
+
+.navigation {
+    ul {
+        list-style:none;
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+    }
+    a {
+        text-decoration: none;
+        font-size: 1.2em;
+        color: white;
+
+        &:hover {
+            text-decoration: underline;
+            color: gold;
+        }
+        &.activo{
+            color: gold;
+        }
+    }
+    
+
+}

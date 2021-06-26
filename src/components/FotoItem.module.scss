@@ -1,0 +1,22 @@
+.fotoItem {
+    position: relative;
+    .fotoImg {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    .heart {
+        position: absolute;
+        left: 10px;
+        top: 10px;
+        cursor: pointer;
+        color: tomato;
+    }
+    .iconCart {
+        color: tomato;
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        cursor: pointer;
+    }
+}
